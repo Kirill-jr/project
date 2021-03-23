@@ -1,0 +1,12 @@
+@media (max-width: 1200px) {
+  .promo_header {
+    font-size: 50px;
+  }
+  .promo_subheader {
+    font-size: 35px;
+  }
+}
+
+.reasons_descr {
+  max-width: 310px;
+}
